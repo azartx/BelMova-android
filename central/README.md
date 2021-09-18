@@ -1,0 +1,1 @@
+This module is for containing some logic for all modules
